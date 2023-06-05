@@ -6,11 +6,10 @@ This project aims to perform sentiment analysis on financial news articles using
 The dataset used in this project is sourced from the Sentiment Analysis of Financial News. It includes information such as time, headline, description. 
 
 # Project Structure
-The repository is structured as follows:
-
-<b>Seoul_bike_prediction.csv</b>: This file contains the dataset used for training and testing the models. To view the dataset click [here](https://drive.google.com/file/d/1lfgJXAJJIYmSJq6Tj4feqPBUQfEBndh6/view?usp=drive_link)
-
-<b>Seoul_bike_prediction.ipynb</b>: This directory contains Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
+<b>cnbc_headlines.csv</b>: The file contains the dataset used for training and testing the models of cnbc headlines
+<b> guardian_headlines</b>: The file contains the dataset used for training and testing the models of gaurdian headlines
+<b> reuters_headlines</b>: The file contains the dataset used for training and testing the models of reuters headlines
+<b>financial_news.ipynb</b>: This file contains Jupyter notebooks used for data exploration, preprocessing, model training, and evaluation.
 
 # Requirements
 To run the code in this repository, you need the following dependencies:
