@@ -1,6 +1,7 @@
 # Sentiment Analysis of Financial News using NLTK
 
-The project performed sentiment analysis on financial news articles using the NLTK library. Various models, including Logistic regression, SVM, XGBoost, KNN, and Random Forest, were employed for sentiment classification. Hyperparameter tuning techniques were applied to optimize accuracy. The project successfully implemented sentiment analysis, accurately classifying sentiment as positive, negative, or neutral based on the textual content. Linear support vector machine models yielded the best results overall.
+The project involved performing sentiment analysis on financial news articles using the NLTK library. The task was to classify the sentiment of news articles as positive, negative, or neutral based on the textual context. To achieve this, various models such as Logistic regression, SVM, XGBoost, KNN, and Random Forest were employed for classification. Additionally, different hyperparameter tuning techniques were applied to optimize the accuracy score. The project successfully implemented sentiment analysis on financial news articles, accurately classifying the sentiment as positive, negative, neutral based on the textual content. The models and hyperparameter tuning techniques were utilized in achieving a high accuracy score for the sentiment classification task. The use of linear support vector machine models yielded the best results overall.
+
 
 # Dataset
 The dataset used in this project is sourced from the Sentiment Analysis of Financial News. It includes information such as time, headline, description. 
