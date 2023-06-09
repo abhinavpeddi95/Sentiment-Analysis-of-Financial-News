@@ -1,6 +1,6 @@
 # Sentiment Analysis of Financial News using NLTK
 
-This project aims to perform sentiment analysis on financial news articles using the Natural Language Toolkit (NLTK) library. The goal is to classify the sentiment of news articles as positive, negative, or neutral based on the textual content.
+The project performed sentiment analysis on financial news articles using the NLTK library. Various models, including Logistic regression, SVM, XGBoost, KNN, and Random Forest, were employed for sentiment classification. Hyperparameter tuning techniques were applied to optimize accuracy. The project successfully implemented sentiment analysis, accurately classifying sentiment as positive, negative, or neutral based on the textual content. Linear support vector machine models yielded the best results overall.
 
 # Dataset
 The dataset used in this project is sourced from the Sentiment Analysis of Financial News. It includes information such as time, headline, description. 
